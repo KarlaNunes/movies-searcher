@@ -1,0 +1,28 @@
+.input {
+    height: 40px;
+    width: 450px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #A8AFB7;
+  }
+  
+.buttonContainer {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+  
+.button {
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background-color: #A20F07;
+  }
+  
+.button:hover {
+    cursor: pointer;
+  }
